@@ -13,7 +13,7 @@ export default (() => {
 				flex-direction="row"
 				md-flex-direction="column"
 			>
-				<Image width="64px" height="auto" src="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo3x.png" srcSet="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo2x.png 2x,https://uploads.quarkly.io/video/adaptive-image-test-amz-logo1x.png 1x" />
+				<Image width="64px" height="auto" src="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo3x.png" srcSet="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo3x.png 3x,https://uploads.quarkly.io/video/adaptive-image-test-amz-logo2x.png 2x,https://uploads.quarkly.io/video/adaptive-image-test-amz-logo1x.png 1x" />
 			</Box>
 		</Section>
 		<Box
@@ -23,7 +23,7 @@ export default (() => {
 			flex-direction="column"
 			align-items="flex-start"
 		>
-			<Image src="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1640w.png" width="100%" srcSet="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-320w.png 320w,https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-768w.png 768w,https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1280w.png 1280w" />
+			<Image src="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1640w.png" width="100%" srcSet="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1640w.png 1640w,https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-320w.png 320w,https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-768w.png 768w,https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1280w.png 1280w" />
 		</Box>
 		<Section background="#fff" padding="100px 0 110px 0" min-height="500px">
 			<Stack>
@@ -46,7 +46,7 @@ export default (() => {
 						object-position="100%"
 						width="100%"
 						max-height="100%"
-						srcSet="https://uploads.quarkly.io/video/adaptive-image-test-layout-320w.png 320,https://uploads.quarkly.io/video/adaptive-image-test-layout-768w.png 768w"
+						srcSet="https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.png 1280w,https://uploads.quarkly.io/video/adaptive-image-test-layout-320w.png 320,https://uploads.quarkly.io/video/adaptive-image-test-layout-768w.png 768w"
 					/>
 					{"    "}
 				</StackItem>
