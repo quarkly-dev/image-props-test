@@ -7,32 +7,32 @@
 <h4 align="center">This Gatsby project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://github.com/quarkly/atomize/workflows/CI/badge.svg"
-         alt="Gitter">
+
+
+  <a href="https://reactjs.org/">
+    <img src="https://badgen.net/badge/React/16.13.0/cyan" 
+         alt="React version" />
   </a>
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://github.com/quarkly/atomize/workflows/CI/badge.svg"
-         alt="Gitter">
+  <a href="https://www.gatsbyjs.org/">
+    <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" 
+         alt="Gatsby version" />
   </a>
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://github.com/quarkly/atomize/workflows/CI/badge.svg"
-         alt="Gitter">
+  <a href="https://github.com/quarkly-dev/image-props-test/pulls">
+    <img src="https://badgen.net/github/prs/quarkly-dev/image-props-test"
+         alt="Pull Request Amount">
   </a>
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://github.com/quarkly/atomize/workflows/CI/badge.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://flat.badgen.net/badge/license/MIT/blue"
+  <img src="https://badgen.net/github/last-commit/quarkly-dev/image-props-test" 
+       alt="Last commit date" />
+  <a href="./LICENSE">
+    <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
   </a>
 </p>
 
 
 <p align="center">
-<img src="https://artemzhigalin.ru/src/how-to-run-gatsby-project.gif" width="480px" alt="How to run development">
-<img src="https://artemzhigalin.ru/src/how-to-build-gatsby-project.gif" width="480px" alt="How to build">
+<img src="https://artemzhigalin.ru/src/how-to-run-gatsby-project.gif" width="460px" alt="How to run development">
+<img src="https://artemzhigalin.ru/src/how-to-build-gatsby-project.gif" width="460px" alt="How to build">
 </p>
 
 # ✨ Install
@@ -60,9 +60,9 @@ $ npm run build
 # 📦 What's inside?
 
 - [React](https://reactjs.org/)
-- [Reach router](https://reach.tech/router/api/navigate)
-- [React helmet](https://github.com/nfl/react-helmet)
+- [Gatsby](https://www.gatsbyjs.org/)
 - [Styled-components](https://styled-components.com/)
+- [React helmet](https://github.com/nfl/react-helmet)
 - [Atomize by Quarkly](https://atomize.quarkly.io/)
 
 # ⚙️ Technology
@@ -71,11 +71,11 @@ $ npm run build
 - Static Site Generator
 - Server-side Rendering
 
-# 💡 About Quarkly
+# 💡 About [Quarkly](https://quarkly.io)
 <p>
 A unique tool for webmasters, designers and developers.
 <br>
-Here you can create websites and web apps as quickly as in website builders and as beautifully as in graphic editors.
+Here you can create websites and web apps quickly, conveniently and beautifully.
 </p>
 
 - [Documentation](https://quarkly.io/docs)
@@ -86,4 +86,4 @@ Here you can create websites and web apps as quickly as in website builders and 
 - [Spectrum](https://spectrum.chat/quarkly)
 
 # 📝 License
-Licensed under the MIT License.
+Licensed under the [MIT License](./LICENSE).
