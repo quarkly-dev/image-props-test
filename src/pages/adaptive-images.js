@@ -46,8 +46,7 @@ export default (() => {
 						object-position="100%"
 						width="100%"
 						max-height="100%"
-						srcSet="https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.webp 1280w,https://uploads.quarkly.io/video/adaptive-image-test-layout-320w.webp 320w,https://uploads.quarkly.io/video/adaptive-image-test-layout-768w.webp 768w"
-						sizes="(max-width: 768px) 768px"
+						srcSet="https://uploads.quarkly.io/video/adaptive-image-test-layout-320w.webp 320w,https://uploads.quarkly.io/video/adaptive-image-test-layout-768w.webp 768w,https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.webp 1280w"
 					/>
 					{"    "}
 				</StackItem>

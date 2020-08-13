@@ -7,7 +7,7 @@ export default {
 			"children": [
 				"5f2be7bff5f4900022453e1b",
 				"5f2be7bff5f4900022453e1d",
-				"5f3516e20d7dce001bc40b84",
+				"5f351ca90d7dce001bc40bd4",
 				"5f30f1a5181d6b0017570e79"
 			]
 		},
@@ -26,8 +26,8 @@ export default {
 			"pageUrl": "all-resources",
 			"name": "all resources"
 		},
-		"5f3516e20d7dce001bc40b84": {
-			"id": "5f3516e20d7dce001bc40b84",
+		"5f351ca90d7dce001bc40bd4": {
+			"id": "5f351ca90d7dce001bc40bd4",
 			"pageUrl": "adaptive-images",
 			"name": "adaptive-images"
 		}
