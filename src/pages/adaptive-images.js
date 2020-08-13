@@ -47,7 +47,7 @@ export default (() => {
 						width="100%"
 						max-height="100%"
 						srcSet="https://uploads.quarkly.io/video/adaptive-image-test-layout-320w.webp 320w,https://uploads.quarkly.io/video/adaptive-image-test-layout-768w.webp 768w,https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.webp 1280w"
-						sizes="(max-width: 768px) 50vw"
+						sizes="(max-width: 767px) 100vw,(min-width: 768px) 50vw"
 					/>
 					{"    "}
 				</StackItem>
