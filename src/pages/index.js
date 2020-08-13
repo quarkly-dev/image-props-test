@@ -13,7 +13,7 @@ export default (() => {
 				flex-direction="row"
 				md-flex-direction="column"
 			>
-				<Image width="64px" height="auto" src="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo3x.png" />
+				<Image width="64px" height="auto" src="https://uploads.quarkly.io/video/adaptive-image-test-amz-logo3x.webp" />
 			</Box>
 		</Section>
 		<Box
@@ -23,7 +23,7 @@ export default (() => {
 			flex-direction="column"
 			align-items="flex-start"
 		>
-			<Image src="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1640w.png" width="100%" />
+			<Image src="https://uploads.quarkly.io/video/adaptive-image-test-fullwidth-1640w.webp" width="100%" />
 		</Box>
 		<Section background="#fff" padding="100px 0 110px 0" min-height="500px">
 			<Stack>
@@ -39,7 +39,7 @@ export default (() => {
 				>
 					<Override slot="StackItemContent" align-items="center" justify-content="center" />
 					<Image
-						src="https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.png"
+						src="https://uploads.quarkly.io/video/adaptive-image-test-layout-1280w.webp"
 						max-width="100%"
 						height="auto"
 						object-fit="contain"
